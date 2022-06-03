@@ -1,0 +1,90 @@
+.container{
+  width: 1000px;
+  background-color: rgba(0,0,0,0.7);
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.container - background{
+  opacity: 0.7;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+  font-family: sans-serif;
+  color: #21d100;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.logo{
+  margin-top: 70px;
+}
+
+#menu{
+  width: 70%;
+  height: 35px;
+  background-color: #21d100;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#menu ul li{
+  display: inline;
+}
+
+.container2{
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  color: white;
+  font-family: sans-serif;
+}
+
+.monopattino{
+  width: 100%;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#nomeMonopattino{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#media{
+  height: 20px;
+  background-color: #ff8c00;
+  border-radius: 10px 10px 10px 10px;
+  width: 50%;
+}
+
+#bassa{
+  height: 20px;
+  background-color: #ff0000;
+  width: 30%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#alta{
+  height: 20px;
+  background-color: #008000;
+  width: 100%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+footer{
+  height: 130px;
+}
